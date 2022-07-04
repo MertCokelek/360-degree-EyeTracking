@@ -21,3 +21,7 @@
     - In the inspector tab, select the imported audio asset in `AudioClip`
     - Make sure `Spatialize` is **not** selected.
 8. Play the scene to test.
+
+
+## TODO:
+Merge [**360-degree video play**](https://learn.unity.com/tutorial/play-360-video-with-a-skybox-in-unity?signup=true) with Ambisonic Plugin
