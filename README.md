@@ -15,7 +15,7 @@
 5. In Unity, click **Edit > Project Settings > Audio**.
     - Select **VIVE 3DSP Spatializer** in **Spatializer Plugin** and **Ambisonic Decoder Plugin**
 6. Right click on Unity Asset Window, **Import New Asset**, select an ambisonic audio file.
-    - Example [audio](https://drive.google.com/file/d/1-HY7ls1X5XtCcwe4cOp-vREpljt8xjJ8/view?usp=sharing) and its [video](https://drive.google.com/file/d/1-G0_L76Cbd83tXCJDpGZjl5AUy4TROx9/view?usp=sharing) are here.
+    - Example [**audio**](https://drive.google.com/file/d/1-HY7ls1X5XtCcwe4cOp-vREpljt8xjJ8/view?usp=sharing) and its [**video**](https://drive.google.com/file/d/1-G0_L76Cbd83tXCJDpGZjl5AUy4TROx9/view?usp=sharing) are here.
     - The audio should be in: **_4-channel B-format_**. **_(ACN/SN3D)_**
 7. Right click on Unity Project Hierarchy, add new audio source: **Audio > Audio Source**.
     - In the inspector tab, select the imported audio asset in `AudioClip`
